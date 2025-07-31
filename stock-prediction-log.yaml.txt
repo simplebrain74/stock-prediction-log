@@ -1,7 +1,0 @@
-/stock-prediction-log
-│
-├─ prediction_results/
-│   └─ 2025-07-30.csv
-│   └─ 2025-07-31.csv
-│
-└─ summary_accuracy.csv  ← 전체 통계 추적용
